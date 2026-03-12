@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=Hi%2C+I'm+Vishesh+%F0%9F%91%8B;Web+Developer+%7C+AI+%26+Machine+Learning+Student;Building+Projects+%26+Learning+New+Technologies)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=Hi%2C+I'm+Vishesh+%F0%9F%91%8B;Web+Developer+%7C+AI+%26+Machine+Learning+Student;Building+Projects+%26+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
 # 💫 About Me:

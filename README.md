@@ -1,7 +1,7 @@
 # Pixel video:
 
 <p align="center">
-  <img src="pixel-coding.gif" width="600">
+  <img src="happy.gif" width="600">
 </p>
 
 

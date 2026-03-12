@@ -4,7 +4,7 @@
   <img src="coding.gif" width="800">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=60B7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Vishesh+%F0%9F%91%8B;Web+Developer+%7C+AI%2FML+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=60B7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vishesh+%F0%9F%91%8B;Web+Developer+%7C+AI%2FML+Student)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hi, I’m Vishesh, a passionate Web Development student who loves building clean, responsive websites and learning new technologies and I am currently pursuing Artificial Intelligence & Machine Learning (AI/ML) and building a strong foundation in data, algorithms, and intelligent systems..<br>🛠️ I’m currently working on Personal web projects HTML, CSS, JavaScript practice Small projects using Node.js & Express<br>🤝 I’m looking to collaborate on Beginner-friendly web development projects Open-source or college projects Frontend or MERN stack projects<br>🆘 I’m looking for help with Backend concepts Real-world project structure Deployment & GitHub best practices<br>🌱 I’m currently learning JavaScript (Advanced) React.js Git & GitHub Basics of AI/ML<br>💬 Ask me about HTML, CSS, JavaScript Node.js & Express basics Git vs GitHub Figma & WordPress basics<br>⚡ Fun fact I enjoy learning tech by building projects instead of just watching tutorials 😄<br>

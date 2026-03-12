@@ -1,7 +1,7 @@
-# Pixel video:
+# Hi 
 
 <p align="center">
-  <img src="happy.gif" width="600">
+  <img src="happy.gif" width="800">
 </p>
 
 
